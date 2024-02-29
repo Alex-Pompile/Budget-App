@@ -1,0 +1,2 @@
+# Budget-App
+ The Budget App is a frontend web application crafted using HTML, CSS, and JavaScript, geared towards managing personal finances. Users input income and expenses, with the app computing the remaining budget. It operates exclusively on the client side, devoid of backend processing, enhancing accessibility and simplicity. The intuitive interface allows users to track their spending and savings effectively, facilitating better financial management.
